@@ -24,6 +24,7 @@ int main() {
 
         // Lê os dados digitados pelo usuário.
         //======================================
+        
         // Leitura do nome do territorio.
         printf("Digite o nome do territorio: ");
         scanf(" %[^\n]", territorios[i].nome);
