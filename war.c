@@ -1,5 +1,5 @@
 // ============================================================================
-//         PROJETO WAR ESTRUTURADO - DESAFIO DE CÓDIGO
+//         PROJETO WAR ESTRUTURADO - DESAFIO DE CÓDIGO - Nivel Aventureiro
 // ============================================================================
 
 #include <stdio.h>
